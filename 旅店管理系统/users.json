@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin",
+    "role": "admin",
+    "customer_type": "",
+    "balance": 0
+  },
+  {
+    "id": 2,
+    "username": "lwzl",
+    "password": "123456",
+    "role": "customer",
+    "customer_type": "member",
+    "balance": 1000
+  }
+]
